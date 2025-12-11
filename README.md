@@ -1,4 +1,3 @@
-```markdown
 # 🎨 Blender UI Component Library: Elevate Add-on Development
 
 ## 📝 Introduction

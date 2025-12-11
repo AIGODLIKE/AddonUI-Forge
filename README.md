@@ -1,5 +1,3 @@
-# 🎨 Blender UI Component Library: Elevate Add-on Development
-
 ## 📝 Introduction
 A forward-looking general-purpose UI component library dedicated to comprehensively enhancing Blender add-on development. Designed to streamline workflows, boost efficiency, and unlock creative potential, this library empowers developers to build more intuitive, polished, and powerful Blender add-ons—whether for modeling, sculpting, rendering, or beyond.
 

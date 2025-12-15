@@ -13,3 +13,10 @@ A passionate team of developers, designers, and Blender enthusiasts—united by 
 ### 🔌 Other Add-ons We Developed
 Explore our portfolio of practical Blender add-ons, crafted to solve real workflow challenges:  
 🔗 [https://extensions.blender.org/author/445/](https://extensions.blender.org/author/445/)  
+
+### Demo
+
+[**Blender Ai Studio**](It will be open source in January.)
+
+https://github.com/user-attachments/assets/e1ac74c2-1c5d-4fcb-bfde-59bf6fa89471
+

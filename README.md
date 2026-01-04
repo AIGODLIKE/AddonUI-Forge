@@ -17,5 +17,4 @@ Explore our portfolio of practical Blender add-ons, crafted to solve real workfl
 ### Demo
 
 [[**Blender Ai Studio**](https://github.com/AIGODLIKE/BlenderAiStudio)]
-https://github.com/user-attachments/assets/e1ac74c2-1c5d-4fcb-bfde-59bf6fa89471
 
